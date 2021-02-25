@@ -8,6 +8,7 @@
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[Python3](./solutions/169.%20Majority%20Element.py)|172 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python3](./solutions/206.%20Reverse%20Linked%20List.py)|36 ms|
 |237|[ Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python3](./solutions/237.%20Delete%20Node%20in%20a%20Linked%20List.py)|56 ms|
+|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python3](./solutions/242.%20Valid%20Anagram.py)||
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python3](./solutions/283.%20Move%20Zeroes.py)|44 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[Python3](./solutions/344.%20Reverse%20String.py)|236 ms|
 |349|[ Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Python3](./solutions/349.%20Intersection%20of%20Two%20Arrays.py)|40 ms|
