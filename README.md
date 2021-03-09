@@ -14,6 +14,7 @@
 |217|[ Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python3](./solutions/217.%20Contains%20Duplicate.py)|108 ms|
 |237|[ Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python3](./solutions/237.%20Delete%20Node%20in%20a%20Linked%20List.py)|56 ms|
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python3](./solutions/242.%20Valid%20Anagram.py)||
+|268|[ Missing Number](https://leetcode.com/problems/missing-number/)|[Python3](./solutions/268.%20Missing%20Number.py)|N/A|
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python3](./solutions/283.%20Move%20Zeroes.py)|44 ms|
 |287|[ Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Python3](./solutions/287.%20Find%20the%20Duplicate%20Number.py)|68 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[Python3](./solutions/344.%20Reverse%20String.py)|236 ms|
