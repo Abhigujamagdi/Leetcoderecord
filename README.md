@@ -16,5 +16,6 @@
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python3](./solutions/283.%20Move%20Zeroes.py)|44 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[Python3](./solutions/344.%20Reverse%20String.py)|236 ms|
 |349|[ Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Python3](./solutions/349.%20Intersection%20of%20Two%20Arrays.py)|40 ms|
+|371|[ Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Python3](./solutions/371.%20Sum%20of%20Two%20Integers.py)|28 ms|
 |412|[ Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python3](./solutions/412.%20Fizz%20Buzz.py)|40 ms|
 |867|[ Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Python3](./solutions/867.%20Transpose%20Matrix.py)|124 ms|
