@@ -5,6 +5,7 @@
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[Python3](./solutions/1.%20Two%20Sum.py)|44 ms|
 |12|[ Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Python3](./solutions/12.%20Integer%20to%20Roman.py)|52 ms|
 |13|[ Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python3](./solutions/13.%20Roman%20to%20Integer.py)|40 ms|
+|27|[ Remove Element](https://leetcode.com/problems/remove-element/)|[Python3](./solutions/27.%20Remove%20Element.py)|36 ms|
 |104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python3](./solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)|52 ms|
 |108|[ Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Python3](./solutions/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py)|60 ms|
 |136|[ Single Number](https://leetcode.com/problems/single-number/)|[Python3](./solutions/136.%20Single%20Number.py)|4528 ms|
