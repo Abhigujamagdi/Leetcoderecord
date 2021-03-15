@@ -12,6 +12,7 @@
 |136|[ Single Number](https://leetcode.com/problems/single-number/)|[Python3](./solutions/136.%20Single%20Number.py)|4528 ms|
 |145|[ Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Python3](./solutions/145.%20Binary%20Tree%20Postorder%20Traversal.py)|24 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[Python3](./solutions/169.%20Majority%20Element.py)|172 ms|
+|179|[ Largest Number](https://leetcode.com/problems/largest-number/)|[Python3](./solutions/179.%20Largest%20Number.py)|92 ms|
 |191|[ Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Python3](./solutions/191.%20Number%20of%201%20Bits.py)|24 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python3](./solutions/206.%20Reverse%20Linked%20List.py)|36 ms|
 |217|[ Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python3](./solutions/217.%20Contains%20Duplicate.py)|108 ms|
