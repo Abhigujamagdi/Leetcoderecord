@@ -8,6 +8,7 @@
 |13|[ Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python3](./solutions/13.%20Roman%20to%20Integer.py)|40 ms|
 |27|[ Remove Element](https://leetcode.com/problems/remove-element/)|[Python3](./solutions/27.%20Remove%20Element.py)|36 ms|
 |35|[ Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python3](./solutions/35.%20Search%20Insert%20Position.py)|36 ms|
+|66|[ Plus One](https://leetcode.com/problems/plus-one/)|[Python3](./solutions/66.%20Plus%20One.py)|28 ms|
 |94|[ Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python3](./solutions/94.%20Binary%20Tree%20Inorder%20Traversal.py)|24 ms|
 |104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python3](./solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)|52 ms|
 |108|[ Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Python3](./solutions/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py)|60 ms|
