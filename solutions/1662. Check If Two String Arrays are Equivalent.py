@@ -3,10 +3,10 @@ class Solution:
         string1=''
         string2=''
         for i in word1:
-            string1 +=str(i) 
+            string1 += str(i) 
         
         for j in word2:
-            string2 +=str(j)
+            string2 += str(j)
         
         if string1 == string2:
             return True
