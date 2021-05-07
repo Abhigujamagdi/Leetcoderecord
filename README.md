@@ -35,4 +35,5 @@
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python3](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.py)||
 |412|[ Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python3](./solutions/412.%20Fizz%20Buzz.py)|40 ms|
 |867|[ Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Python3](./solutions/867.%20Transpose%20Matrix.py)|124 ms|
+|1232|[ Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[Python3](./solutions/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.py)||
 |1662|[ Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Python3](./solutions/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.py)|28 ms|
