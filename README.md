@@ -25,6 +25,7 @@
 |219|[ Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Python3](./solutions/219.%20Contains%20Duplicate%20II.py)||
 |237|[ Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python3](./solutions/237.%20Delete%20Node%20in%20a%20Linked%20List.py)|56 ms|
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python3](./solutions/242.%20Valid%20Anagram.py)||
+|258|[ Add Digits](https://leetcode.com/problems/add-digits/)|[Python3](./solutions/258.%20Add%20Digits.py)||
 |268|[ Missing Number](https://leetcode.com/problems/missing-number/)|[Python3](./solutions/268.%20Missing%20Number.py)|N/A|
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python3](./solutions/283.%20Move%20Zeroes.py)|44 ms|
 |287|[ Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Python3](./solutions/287.%20Find%20the%20Duplicate%20Number.py)|68 ms|
