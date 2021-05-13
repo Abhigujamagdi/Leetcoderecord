@@ -39,6 +39,7 @@
 |557|[ Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Python3](./solutions/557.%20Reverse%20Words%20in%20a%20String%20III.py)|28 ms|
 |575|[ Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[Python3](./solutions/575.%20Distribute%20Candies.py)|780 ms|
 |867|[ Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Python3](./solutions/867.%20Transpose%20Matrix.py)|124 ms|
+|1016|[ Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/)|[Python3](./solutions/1016.%20Binary%20String%20With%20Substrings%20Representing%201%20To%20N.py)|24 ms|
 |1232|[ Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[Python3](./solutions/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.py)||
 |1455|[ Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)|[Python3](./solutions/1455.%20Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence.py)|24 ms|
 |1539|[ Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)|[Python3](./solutions/1539.%20Kth%20Missing%20Positive%20Number.py)|44 ms|
