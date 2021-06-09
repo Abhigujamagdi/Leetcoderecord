@@ -44,6 +44,7 @@
 |1232|[ Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[Python3](./solutions/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.py)||
 |1365|[ How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Python3](./solutions/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.py)|80 ms|
 |1455|[ Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)|[Python3](./solutions/1455.%20Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence.py)|24 ms|
+|1480|[ Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python3](./solutions/1480.%20Running%20Sum%20of%201d%20Array.py)|64 ms|
 |1528|[ Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Python3](./solutions/1528.%20Shuffle%20String.py)|56 ms|
 |1539|[ Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)|[Python3](./solutions/1539.%20Kth%20Missing%20Positive%20Number.py)|44 ms|
 |1662|[ Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Python3](./solutions/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.py)|28 ms|
